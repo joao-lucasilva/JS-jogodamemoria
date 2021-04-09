@@ -16,7 +16,7 @@ Tabela de conteúdos
 O jogo da memória é formado por peças que apresentam uma imagem em um dos lados. Cada figura se repete em duas peças diferentes. Para começar o jogo, as peças são postas com as figuras voltadas para baixo. O jogador deve, virar duas peças e deixar que todos as vejam. Caso as figuras sejam iguais, o par se manterá voltado para cima. Se forem peças diferentes, estas devem ser viradas novamente.
 ## Como Funciona
 * Clique em cada uma das cartas para vira-las.
-
+![Jogo da Memória](https://github.com/joao-lucasilva/JS-jogodamemoria/blob/master/screenshort.JPG)
 
 ## Tecnologias
 Neste projeto foi utilizado:
